@@ -1,4 +1,4 @@
-import { Slide } from '@mui/material'
+
 import React from 'react'
 import { Text, Products, SliderCard, Service, Connect, Footer } from '../components'
 
