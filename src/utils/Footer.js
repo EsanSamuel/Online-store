@@ -1,0 +1,49 @@
+export const footer = [
+    {
+        id:1,
+        text:'145 New York, FL 5467, USA'
+    },
+    {
+        id:2,
+        text:'Services'
+    },
+    {
+        id:3,
+        text:'Works'
+    },
+    {
+        id:4,
+        text:'Note'
+    },
+    {
+        id:5,
+        text:'Experience'
+    },
+]
+
+export const footer2 = [
+    {
+        id:1,
+        text:'product'
+    },
+    {
+        id:2,
+        text:'product'
+    },
+    {
+        id:3,
+        text:'product'
+    },
+    {
+        id:4,
+        text:'product'
+    },
+    {
+        id:5,
+        text:'product'
+    },
+    {
+        id:6,
+        text:'product'
+    },
+]
